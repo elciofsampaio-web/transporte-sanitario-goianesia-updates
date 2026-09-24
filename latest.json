@@ -1,6 +1,6 @@
 {
-  "versionName": "1.4.2",
-  "versionCode": 10,
+  "versionName": "1.4.3",
+  "versionCode": 11,
   "apkUrl": "https://elciofsampaio-web.github.io/app.apk",
-  "notes": "Controle de troca de óleo no checklist da ambulância.\nItens Alinhamento e Balanceamento.\nDados já salvos são preservados."
+  "notes": "Assinatura em tela horizontal, sem ficar torta no PDF.\nAviso automático quando houver versão nova.\nA instalação continua dependendo da sua confirmação."
 }
