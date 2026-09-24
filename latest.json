@@ -1,6 +1,6 @@
 {
-  "versionName": "1.4.3",
-  "versionCode": 11,
+  "versionName": "1.4.4",
+  "versionCode": 12,
   "apkUrl": "https://elciofsampaio-web.github.io/app.apk",
-  "notes": "Assinatura em tela horizontal, sem ficar torta no PDF.\nAviso automático quando houver versão nova.\nA instalação continua dependendo da sua confirmação."
+  "notes": "Nova imagem da ambulância na tela inicial.\nPôr do sol e rodovia preservados.\nDados já salvos continuam no aparelho."
 }
