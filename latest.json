@@ -1,6 +1,6 @@
 {
-  "versionName": "1.4.4",
-  "versionCode": 12,
+  "versionName": "1.4.5",
+  "versionCode": 13,
   "apkUrl": "https://elciofsampaio-web.github.io/app.apk",
-  "notes": "Nova imagem da ambulância na tela inicial.\nPôr do sol e rodovia preservados.\nDados já salvos continuam no aparelho."
+  "notes": "Novo módulo Checklist SAMU, separado das fichas e do checklist da ambulância.\nConferência USA/USB, pendências, fotos, assinatura e PDF offline.\nCorreção do aviso de atualização que continuava depois de instalar.\nDados já salvos continuam no aparelho."
 }
