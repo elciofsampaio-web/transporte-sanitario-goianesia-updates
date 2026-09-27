@@ -1,6 +1,6 @@
 {
   "versionName": "2.2.0",
   "versionCode": 16,
-  "apkUrl": "https://elciofsampaio-web.github.io/app.apk",
+  "apkUrl": "https://elciofsampaio-web.github.io/app.apk?v=16",
   "notes": "Rastreamento suspenso: o aplicativo encerra o serviço de localização e não pede GPS.\nMensagens aparecem na caixa ao abrir o aplicativo.\nHá o botão para sincronizar o histórico antigo com a Central.\nMesmo package e mesma assinatura. Não desinstale. Este arquivo não atualiza o aplicativo Mestre."
 }
