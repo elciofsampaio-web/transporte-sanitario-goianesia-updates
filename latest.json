@@ -1,6 +1,6 @@
 {
-  "versionName": "1.4.5",
-  "versionCode": 13,
+  "versionName": "2.0.0",
+  "versionCode": 14,
   "apkUrl": "https://elciofsampaio-web.github.io/app.apk",
-  "notes": "Novo módulo Checklist SAMU, separado das fichas e do checklist da ambulância.\nConferência USA/USB, pendências, fotos, assinatura e PDF offline.\nCorreção do aviso de atualização que continuava depois de instalar.\nDados já salvos continuam no aparelho."
+  "notes": "Central de Transporte e Frota: vinculação do aparelho, sincronização de fichas e checklists, confirmação de entrega, mensagens e localização só durante o plantão.\nO aplicativo dos condutores continua o mesmo package e a mesma assinatura.\nDados já salvos neste aparelho são mantidos."
 }
