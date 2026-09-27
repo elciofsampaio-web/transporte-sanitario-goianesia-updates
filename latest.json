@@ -1,6 +1,6 @@
 {
-  "versionName": "2.1.0",
-  "versionCode": 15,
+  "versionName": "2.2.0",
+  "versionCode": 16,
   "apkUrl": "https://elciofsampaio-web.github.io/app.apk",
-  "notes": "Localização do plantão no aplicativo dos condutores: serviço em primeiro plano, com aviso visível, só enquanto o plantão estiver ativo.\nAo encerrar o plantão a localização para. Fora do plantão a Central não recebe posição.\nO aplicativo continua o mesmo package e a mesma assinatura. Dados já salvos neste aparelho são mantidos.\nEste arquivo não atualiza o aplicativo Mestre."
+  "notes": "Rastreamento suspenso: o aplicativo encerra o serviço de localização e não pede GPS.\nMensagens aparecem na caixa ao abrir o aplicativo.\nHá o botão para sincronizar o histórico antigo com a Central.\nMesmo package e mesma assinatura. Não desinstale. Este arquivo não atualiza o aplicativo Mestre."
 }
