@@ -1,6 +1,6 @@
 {
-  "versionName": "2.0.0",
-  "versionCode": 14,
+  "versionName": "2.1.0",
+  "versionCode": 15,
   "apkUrl": "https://elciofsampaio-web.github.io/app.apk",
-  "notes": "Central de Transporte e Frota: vinculação do aparelho, sincronização de fichas e checklists, confirmação de entrega, mensagens e localização só durante o plantão.\nO aplicativo dos condutores continua o mesmo package e a mesma assinatura.\nDados já salvos neste aparelho são mantidos."
+  "notes": "Localização do plantão no aplicativo dos condutores: serviço em primeiro plano, com aviso visível, só enquanto o plantão estiver ativo.\nAo encerrar o plantão a localização para. Fora do plantão a Central não recebe posição.\nO aplicativo continua o mesmo package e a mesma assinatura. Dados já salvos neste aparelho são mantidos.\nEste arquivo não atualiza o aplicativo Mestre."
 }
