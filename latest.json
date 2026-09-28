@@ -1,6 +1,6 @@
 {
-  "versionName": "2.2.2",
-  "versionCode": 18,
-  "apkUrl": "https://elciofsampaio-web.github.io/app-2.2.2.apk",
-  "notes": "Assinatura confirmada fica na horizontal, da esquerda para a direita.\nVeículos, escala e plantões extras. O GPS continua desligado.\nInstale por cima. Não desinstale e não limpe os dados."
+  "versionName": "2.2.3",
+  "versionCode": 19,
+  "apkUrl": "https://elciofsampaio-web.github.io/app-2.2.3.apk",
+  "notes": "Assinatura confirmada fica na horizontal.\nViatura baixada bloqueia o checklist. Plantão extra é só sim ou não.\nInstale por cima. Não desinstale e não limpe os dados. O GPS continua desligado."
 }
