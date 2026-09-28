@@ -1,6 +1,6 @@
 {
-  "versionName": "2.2.4",
-  "versionCode": 20,
-  "apkUrl": "https://elciofsampaio-web.github.io/app-2.2.4.apk",
-  "notes": "Agora dá para selecionar, selecionar todos e remover escalas, plantões extras, mensagens e históricos só neste aparelho.\nA Coordenação continua com o arquivo oficial.\nInstale por cima. Não desinstale e não limpe os dados. O GPS continua desligado."
+  "versionName": "2.2.5",
+  "versionCode": 21,
+  "apkUrl": "https://elciofsampaio-web.github.io/app-2.2.5.apk",
+  "notes": "A assinatura do checklist fica do jeito que foi feita, sem virar quando o celular volta para a vertical.\nInstale por cima. Não desinstale e não limpe os dados. O GPS continua desligado."
 }
