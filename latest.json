@@ -1,6 +1,6 @@
 {
-  "versionName": "2.2.1",
-  "versionCode": 17,
-  "apkUrl": "https://elciofsampaio-web.github.io/app-2.2.1.apk",
-  "notes": "Correção de abertura: o aplicativo não envia mais o histórico inteiro pela ponte do Android.\nPDF, foto e assinatura ficam separados e só entram na memória de um documento por vez.\nInstale por cima. Não desinstale e não limpe os dados. O GPS continua desligado."
+  "versionName": "2.2.2",
+  "versionCode": 18,
+  "apkUrl": "https://elciofsampaio-web.github.io/app-2.2.2.apk",
+  "notes": "Assinatura confirmada fica na horizontal, da esquerda para a direita.\nVeículos, escala e plantões extras. O GPS continua desligado.\nInstale por cima. Não desinstale e não limpe os dados."
 }
