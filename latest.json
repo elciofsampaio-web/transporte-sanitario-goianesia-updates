@@ -1,6 +1,6 @@
 {
-  "versionName": "2.2.9",
-  "versionCode": 25,
-  "apkUrl": "https://elciofsampaio-web.github.io/app-2.2.9.apk",
-  "notes": "Marca-d'água nova, maior e mais clara na impressão da ficha e do checklist da ambulância.\nO checklist do SAMU não mudou.\nInstale por cima. Não desinstale e não limpe os dados. O GPS continua desligado."
+  "versionName": "2.2.10",
+  "versionCode": 26,
+  "apkUrl": "https://elciofsampaio-web.github.io/app-2.2.10.apk",
+  "notes": "A marca-d'água saiu da tela de preenchimento e do PDF. A folha fica limpa.\nO checklist do SAMU não mudou.\nInstale por cima. Não desinstale e não limpe os dados. O GPS continua desligado."
 }
