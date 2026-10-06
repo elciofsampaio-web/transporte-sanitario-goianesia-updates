@@ -1,6 +1,6 @@
 {
-  "versionName": "2.2.7",
-  "versionCode": 23,
-  "apkUrl": "https://elciofsampaio-web.github.io/app-2.2.7.apk",
-  "notes": "A ficha do paciente ficou mais clara, sem a tarja escura, com a marca do condutor ao fundo.\nO checklist da ambulância recebeu só a marca-d'água.\nO checklist do SAMU não mudou.\nInstale por cima. Não desinstale e não limpe os dados. O GPS continua desligado."
+  "versionName": "2.2.8",
+  "versionCode": 24,
+  "apkUrl": "https://elciofsampaio-web.github.io/app-2.2.8.apk",
+  "notes": "A marca-d'água nova ficou maior e mais visível na ficha e no checklist da ambulância.\nO checklist do SAMU não mudou.\nInstale por cima. Não desinstale e não limpe os dados. O GPS continua desligado."
 }
